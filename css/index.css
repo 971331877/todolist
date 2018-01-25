@@ -26,7 +26,7 @@
     line-height: 10vh;
 }
 .plan.active{
-    background: ;
+    background:blue ;
     color: #fff;
 }
 .done.active{
